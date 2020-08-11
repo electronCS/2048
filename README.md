@@ -5,7 +5,7 @@ Use wasd to play.
 
 Click the link below to play!
 
-https://github.com/electronCS/2048/deployments/activity_log?environment=github-pages 
+https://electroncs.github.io/2048/
 
 Credits to
 
